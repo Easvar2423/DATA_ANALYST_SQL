@@ -1,0 +1,10 @@
+Show databases;
+use sample_1;
+show tables;
+drop database sakila;
+drop database sample;
+drop database sys;
+drop database world;
+create database sample_DB;
+use sample_db;
+show tables;

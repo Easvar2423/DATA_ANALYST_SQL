@@ -1,1 +1,0 @@
-# DATA_ANALYST_SQL
